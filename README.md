@@ -9,7 +9,7 @@
 - 🚀 Current Project: Working on a MERN stack application for Fleet Management.
 - 🏆 Achievements: Certified DataScientist.
 - 🎯 Future Goals: Looking to delve deeper into machine learning and data science with Python.
-- 📧 Contact: Feel free to email me at uroojmaqsood71@gmail.com or follow me on instagram "@unfilteredurooj".
+- 📧 Contact: Feel free to email me at maqsurooj@gmail.com or follow me on instagram "@unfilteredurooj".
 
 <!---
 uroojmaqs/uroojmaqs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
